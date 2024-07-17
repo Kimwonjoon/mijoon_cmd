@@ -5,37 +5,37 @@
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.2"
-content_hash = "sha256:a00dbfd329f3238b80ac3b6d96df0f02b35e781e8d526692059dbf66cb25a45f"
+content_hash = "sha256:7ba041ed6785883ca653139f6ed7663e830f221329f51abd9d491bafed4d59d2"
 
 [[package]]
 name = "team-divide"
-version = "0.1.0"
+version = "0.1.3"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "team_divide-0.1.0-py3-none-any.whl", hash = "sha256:3bd446fd48b59b58d2b47794e617490b2b21484c5c9890ea9042f35b0af58732"},
-    {file = "team_divide-0.1.0.tar.gz", hash = "sha256:d9edfef3cc96fc60c205ca457c68978f64765085e298bb8de34eaeb83422fddd"},
+    {file = "team_divide-0.1.3-py3-none-any.whl", hash = "sha256:915506faa90aca89a4d26bfa3cbc41414fb565c9b09cdbd02859481450f2f228"},
+    {file = "team_divide-0.1.3.tar.gz", hash = "sha256:aca2345d8e31282163923bd3e10d01d541757d79d134d99578a06fa4db2c7268"},
 ]
 
 [[package]]
 name = "team-mul"
-version = "0.1.0"
+version = "0.1.1"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "team_mul-0.1.0-py3-none-any.whl", hash = "sha256:d4da3c2c693afc06aa03d9a1765c794f8c9251abfbe4801160e33da7b663172d"},
-    {file = "team_mul-0.1.0.tar.gz", hash = "sha256:7c6dfaa7d1552589e9f71e7493d5f6926e3b705fd68a1a8c046d2fc7c48510fc"},
+    {file = "team_mul-0.1.1-py3-none-any.whl", hash = "sha256:9acf552c8680fe8ffbf24d8379039a294002fefc6695124bfeebd47fb2952ddf"},
+    {file = "team_mul-0.1.1.tar.gz", hash = "sha256:ec38e1c63e9bdaee246ca964a63e76d2b4dbbfb732a37a130b8c88aaa36cdf9a"},
 ]
 
 [[package]]
 name = "team-plus"
-version = "0.1.0"
+version = "0.4.0"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "team_plus-0.1.0-py3-none-any.whl", hash = "sha256:927720d58b50846ccae84eb86be74b62751a60db28d24787dfeba8d9573f13fb"},
-    {file = "team_plus-0.1.0.tar.gz", hash = "sha256:076f2de3b289e01de55897b0e26fd05d967be8e4e7458caad9b2ca4dc75ec147"},
+    {file = "team_plus-0.4.0-py3-none-any.whl", hash = "sha256:11de52223140a3fbdac117fab00b12f761c400b2f5347bbb4240c3ab537bf705"},
+    {file = "team_plus-0.4.0.tar.gz", hash = "sha256:d8335ff556c35ca7b2a480d6e1a309c5a225c2a5fe8a3a7991c821c1c4e53c7a"},
 ]

@@ -1,14 +1,14 @@
 [project]
 name = "mijoon_cmd"
-version = "0.2.0"
+version = "0.3.0"
 description = "Default template for PDM package"
 authors = [
     {name = "Kimwonjoon", email = "kimpass189@gmail.com"},
 ]
 dependencies = [
-    "team-divide>=0.1.0",
-    "team-mul>=0.1.0",
-    "team-plus>=0.1.0",
+    "team-divide>=0.1.3",
+    "team-mul>=0.1.1",
+    "team-plus>=0.4.0",
 ]
 requires-python = ">=3.9"
 readme = "README.md"
@@ -17,3 +17,10 @@ license = {text = "MIT"}
 
 [tool.pdm]
 distribution = true
+
+[project.scripts]
+t_cmd = "mijoon_cmd.cmd:main"
+
+[project.urls]
+Homepage = "https://github.com/Kimwonjoon/mijoon_cmd"
+Issues = "https://github.com/Kimwonjoon/mijoon_cmd/issues"
